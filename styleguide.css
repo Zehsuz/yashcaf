@@ -1,0 +1,11 @@
+:root {
+  --x-1: rgba(147, 122, 96, 1);
+  --txt: rgba(255, 255, 255, 1);
+  --vedel: rgba(17, 16, 14, 1);
+  ---font-family: "Gilroy", Helvetica;
+  ---font-weight: 400;
+  ---font-size: 26px;
+  ---letter-spacing: 0px;
+  ---line-height: 28px;
+  ---font-style: normal;
+}
